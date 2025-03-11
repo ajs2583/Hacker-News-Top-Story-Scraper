@@ -15,6 +15,6 @@ This Python script scrapes the Hacker News front page and extracts the highest-r
 Clone this repository and install the dependencies:
 
 ```bash
-git clone https://github.com/yourusername/hacker-news-top-story.git
+git clone https://github.com/ajs2583/hacker-news-top-story.git
 cd hacker-news-top-story
 pip install -r requirements.txt
